@@ -1,3 +1,9 @@
+# Tom Hagedorn 
+## Software Engineering Homework
+For CS_4320, Software Engineering 1, this is my homework assignment for 7.01 Construction and Testing using 
+Pytest. The following is the Descriton of the assignment
+
+
 # Exercise 07.1 - Construction and Testing
 ## CS4320/7320 Software Engineering
 
